@@ -21,8 +21,7 @@
 </br>
 </br>
 
-- **모임 날짜:** 매주 화요일 18시 
-
+- **모임 날짜:** 매주 수요일 18시 
 
 - **목표:** [An Introduction to Statistical Learning with Applications in Python (ISLP)](https://www.statlearning.com/) 정독
 

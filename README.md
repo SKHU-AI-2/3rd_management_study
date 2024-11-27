@@ -83,3 +83,10 @@
 - 5th week(11/22)
     - 출결: 3/3
     - 학습내용: 로그 변환 및 포아송 회귀 모델, LOOCV & K-Fold 방식을 통한 검증 비교, 부트스트랩
+ 
+
+</br>
+
+- 6th week(11/27)
+    - 출결: 3/3
+    - 학습내용: Forward Stepwise Selection, Backward Stepwise Selection, Validation 적용
